@@ -4,6 +4,8 @@ This page includes descriptors for my business ready skillset.
 **EDUCATION	** 
 
 University of Denver, Daniels College of Business 	Denver, CO 
+
+
 Bachelor of Science Business Administration, Business Information & Analytics    	Expected Graduation: March 2025
 Masters of Science in Applied Quantitative Finance, Financial Institutions	Expected Graduation: March 2026  
 •	Overall GPA: 3.70
