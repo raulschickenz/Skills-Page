@@ -5,13 +5,17 @@ This page includes descriptors for my business ready skillset.
 
 University of Denver, Daniels College of Business 	Denver, CO 
 
-
 Bachelor of Science Business Administration, Business Information & Analytics    	Expected Graduation: March 2025
 Masters of Science in Applied Quantitative Finance, Financial Institutions	Expected Graduation: March 2026  
+
+
 •	Overall GPA: 3.70
 •	Relevant Courses: Data Mining and Visualization, Optimization and Modeling, Automated Business Processes, Enterprise Information Management, Foundation of Information Management, Financial & Managerial Accounting, Applied Calculus
+
 •	Project Experience:  Multiple regression project predicting NFL quarterback Salary (Analytics III), team leader in entrepreneurship project (Fourth Industrial revolution)
+
 •	Awards: Writing Excellency Award Nominee
+
 •	University of Denver Dean’s List (2023)
 Cheyenne Mountain High School, Colorado Springs, Colorado                                  		                       August 2018- May 2022                                            Principles Honor Roll 					
 
