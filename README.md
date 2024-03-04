@@ -1,5 +1,5 @@
 # Skills-Page
-This page includes descriptors for my business ready skillset.
+This page includes descriptors for my business ready skillset as well as a diverse array of my personal apptitudes.
 
 **EDUCATION	** 
 
